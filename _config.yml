@@ -1,11 +1,14 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Jaime Sparks # your name (or website title) here
+logo: "/images/sunrays.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Data Professional with 8+ years of experience in interpreting and analyzing data for driving business solutions.
+  Proficient knowledge in cleaning, appending, and developing data insights using VBA and Excel. Excellent understanding 
+  of business operations and visualization tools for effective analyses of data.
+ 
   <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  Currently focused on improving skills set in automation and UI design.
+  # <br><br>
+  # <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
