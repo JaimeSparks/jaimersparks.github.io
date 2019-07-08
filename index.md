@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Data Analysis and UI Design 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Las Vegas Strip Hotel Trip Advisor Reviews](/sample_page)
+<img src="images/LasVegas Strip Hotel Review.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
@@ -17,9 +17,9 @@
 
 ---
 
-### Data Visualizations
+### Links
 
-- [Tableau](https://public.tableau.com/profile/jaimesparks#!/vizhome/LasVegsTripAdvsorReviews/Dashboard1)
+- [Tableau](https://public.tableau.com/profile/jaimesparks#!/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
