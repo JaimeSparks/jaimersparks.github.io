@@ -4,16 +4,16 @@
 
 ### Data Analysis and UI Design 
 
-[Las Vegas Strip Hotel Trip Advisor Reviews](https://public.tableau.com/profile/jaimesparks#!/vizhome/LasVegsTripAdvsorReviews/Dashboard1)
+[Visualization - Open Source Dataset](https://public.tableau.com/profile/jaimesparks#!/vizhome/LasVegsTripAdvsorReviews/Dashboard1)
 <img src="images/LasVegas Strip Hotel Review.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Single Page Website](/pdf/Legna Cleaning Services - Office Cleaning, Post Construction.pdf)
+<img src="images/Legna Cleaning Services snip.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[E-Commerce]
+<img src="images/AFreshFit_eComm.jpg?raw=true"/>
 
 ---
 
