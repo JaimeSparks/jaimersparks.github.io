@@ -8,6 +8,11 @@
 <img src="images/LasVegas Strip Hotel Review.png?raw=true"/>
 
 ---
+
+[Predictive Modeling](https://github.com/JaimeSparks/Python/blob/master/Jaime_Golf_Predictions_KP_Updates.ipynb)
+<img src="images/Python Predicitve Modeling.png?raw=true"/>
+
+---
 [Single Page Website](/pdf/Legna Cleaning Services - Office Cleaning, Post Construction.pdf)
 <img src="images/Legna Cleaning Services snip.png?raw=true"/>
 
@@ -20,7 +25,8 @@ E-Commerce
 ### Links
 
 - [Tableau](https://public.tableau.com/profile/jaimesparks#!/)
-- [VBA-Excel](https://github.com/JaimeSparks/VBA)
+- [VBA](https://github.com/JaimeSparks/VBA)
+- [Python](https://github.com/JaimeSparks/Python)
 
 ---
 
