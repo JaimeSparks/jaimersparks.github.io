@@ -4,7 +4,7 @@
 
 ### Data Analysis and UI Design 
 
-[Las Vegas Strip Hotel Trip Advisor Reviews](/sample_page)
+[Las Vegas Strip Hotel Trip Advisor Reviews](https://public.tableau.com/profile/jaimesparks#!/vizhome/LasVegsTripAdvsorReviews/Dashboard1)
 <img src="images/LasVegas Strip Hotel Review.jpg?raw=true"/>
 
 ---
