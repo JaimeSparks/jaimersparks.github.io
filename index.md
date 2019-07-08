@@ -10,7 +10,7 @@
 ---
 
 [Predictive Modeling](https://github.com/JaimeSparks/Python/blob/master/Jaime_Golf_Predictions_KP_Updates.ipynb)
-<img src="images/Python_Predicitve_Modeling.png?raw=true"/>
+<img src="images/Python_Predictive_Modeling.png?raw=true"/>
 
 ---
 [Single Page Website](/pdf/Legna Cleaning Services - Office Cleaning, Post Construction.pdf)
