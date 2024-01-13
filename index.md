@@ -1,4 +1,7 @@
 ## Portfolio
+I enjoy exploring new technologies, developing data and software solutions.
+I'm currentlty engaged in self study and on the trajectory for learning more about Systems Design, Cloud Architecture, Salesforce, and Artificial Intelligence.
+Please feel free to contact me for contract consulting and project implementation.
 
 ---
 
