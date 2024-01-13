@@ -27,7 +27,7 @@ E-Commerce
 
 ### Languages
 
-- <img src="images/Java_logo.png?raw=true" width="10" height="10">> [Java](https://github.com/JaimeSparks/Java)
+- <img src="images/Java_logo.png?raw=true" width="15" height="15"> [Java](https://github.com/JaimeSparks/Java)
 - [SQL](https://github.com/JaimeSparks/SQL)
 - [VBA](https://github.com/JaimeSparks/VBA)
 - [Python](https://github.com/JaimeSparks/Python)
