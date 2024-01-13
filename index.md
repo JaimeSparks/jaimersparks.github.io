@@ -2,7 +2,7 @@
 
 ---
 
-### Data Analysis and UI Design 
+### Projects
 
 [Data Visualizations - Open Source](https://public.tableau.com/profile/jaimesparks#!/vizhome/LasVegsTripAdvsorReviews/Dashboard1)
 <img src="images/LasVegas Strip Hotel Review.png?raw=true"/>
