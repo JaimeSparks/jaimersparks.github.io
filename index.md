@@ -4,7 +4,7 @@
 
 ### Data Analysis and UI Design 
 
-[Visualization - Open Source Dataset](https://public.tableau.com/profile/jaimesparks#!/vizhome/LasVegsTripAdvsorReviews/Dashboard1)
+[Data Visualizations - Open Source](https://public.tableau.com/profile/jaimesparks#!/vizhome/LasVegsTripAdvsorReviews/Dashboard1)
 <img src="images/LasVegas Strip Hotel Review.png?raw=true"/>
 
 ---
@@ -24,7 +24,8 @@ E-Commerce
 
 ### Links
 
-- [Tableau](https://public.tableau.com/profile/jaimesparks#!/)
+- [Java](https://github.com/JaimeSparks/Java)
+- [SQL](https://github.com/JaimeSparks/SQL)
 - [VBA](https://github.com/JaimeSparks/VBA)
 - [Python](https://github.com/JaimeSparks/Python)
 
