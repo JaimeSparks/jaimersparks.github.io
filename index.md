@@ -5,6 +5,12 @@ Please feel free to contact me for contract consulting and project implementatio
 
 ---
 
+### Languages
+
+<img src="images/Java_logo.png?raw=true" width="15" height="15"> [Java](https://github.com/JaimeSparks/Java) - <img src="images/SQL_logo.png?raw=true" width="15" height="15"> [SQL](https://github.com/JaimeSparks/SQL) - <img src="images/VBA_visual-basic-for-applications_logo.png?raw=true" width="15" height="15"> [VBA](https://github.com/JaimeSparks/VBA) - <img src="images/Python_logo.png?raw=true" width="15" height="15"> [Python](https://github.com/JaimeSparks/Python)
+
+---
+
 ### Projects
 
 [Data Visualizations - Open Source](https://public.tableau.com/profile/jaimesparks#!/vizhome/LasVegsTripAdvsorReviews/Dashboard1)
@@ -24,13 +30,6 @@ E-Commerce
 <img src="images/AFreshFit_eComm.jpg?raw=true"/>
 
 ---
-
-### Languages
-
-<img src="images/Java_logo.png?raw=true" width="15" height="15"> [Java](https://github.com/JaimeSparks/Java) - <img src="images/SQL_logo.png?raw=true" width="15" height="15"> [SQL](https://github.com/JaimeSparks/SQL) - <img src="images/VBA_visual-basic-for-applications_logo.png?raw=true" width="15" height="15"> [VBA](https://github.com/JaimeSparks/VBA) - <img src="images/Python_logo.png?raw=true" width="15" height="15"> [Python](https://github.com/JaimeSparks/Python)
-
----
-
 
 
 
