@@ -3,6 +3,9 @@ logo: "/images/Sunrays.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Data Solutions and Software Development  
   <br><br>  
+### Languages
+
+<img src="images/Java_logo.png?raw=true" width="15" height="15"> [Java](https://github.com/JaimeSparks/Java) - <img src="images/SQL_logo.png?raw=true" width="15" height="15"> [SQL](https://github.com/JaimeSparks/SQL) - <img src="images/VBA_visual-basic-for-applications_logo.png?raw=true" width="15" height="15"> [VBA](https://github.com/JaimeSparks/VBA) - <img src="images/Python_logo.png?raw=true" width="15" height="15"> [Python](https://github.com/JaimeSparks/Python)  
   
 theme: jekyll-theme-minimal
 google_analytics: UA-143535457-1 # your Google Analytics tracking ID here
