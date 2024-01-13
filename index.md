@@ -22,7 +22,7 @@ E-Commerce
 
 ---
 
-### Links
+### Languages
 
 - [Java](https://github.com/JaimeSparks/Java)
 - [SQL](https://github.com/JaimeSparks/SQL)
